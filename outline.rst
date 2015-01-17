@@ -2,7 +2,9 @@
 
 1. Choose a license for your software.
 
-2. Put it on a hosting site.
+2. Put it on a hosting site
+
+   (OR, make it available via version control site)
 
 3. Provide example input data, example results, and instructions on
    how to use your software to go from the data to the results.
